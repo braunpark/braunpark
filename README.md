@@ -37,9 +37,9 @@
 
 ## 📝 Blog & Contact
 
-- 📖 [Tech Blog](your-blog-url)
-- 💼 [LinkedIn](your-linkedin-url)
-- 📧 your-email@example.com
+- 📖 [Tech Blog](https://curiousbk.dev/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/bokyun91/)
+- 📧 sum8179@gmail.com
 
 ---
 
